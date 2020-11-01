@@ -18,3 +18,33 @@ https://www2033.o0-5.com/token=eeEaEKjmwhDFjdMP8GrrQg/1604205637/186.154.0.0/5/7
 https://www399.o0-1.com/token=SwhGHJG0xv0v-jAlseZqCQ/1604205700/186.154.0.0/1/c/aa/6935455a8b38d317b9da1907b7895aac-480p.mp4
 #EXTINF:-1 tvg-logo="https://static.pelisbot.com/movie/cover/original/19f60e662a6b5cd00f7c1f533ca2ccf7.jpg group-title= Infantil", Infantil | Batman Sin Límites: Caos Monstruoso
 https://www1498.o0-3.com/token=gjvxt7t7vyHLe0v9BFyP7g/1604205739/186.154.0.0/16/1/ba/10f15383442531845dbc81e35b7c2ba1-480p.mp4
+
+
+#EXTINF:-1 group-title="CANAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES064Panda.png",ES064:Panda
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2540
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES060NickelodeonES.png",ES060:Nickelodeon ES
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2544
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES037DisneyXDES.png",ES037:Disney XD ES
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2567
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES035DisneyES.png",ES035:Disney ES
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2569
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES011Boing.png",ES011:Boing
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2593
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES008BabyTV.png",ES008:Baby TV
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2596
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES143CANALPANDA.png",ES143:CANAL PANDA
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29249
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES240Panda.png",ES240:Panda
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52367
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES205DisneyChannel.png",ES205:Disney Channel
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52402
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES204Nickelodeon.png",ES204:Nickelodeon
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52403
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES203DisneyJunior.png",ES203:Disney Junior
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52404
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES202DisneyXD.png",ES202:Disney XD
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52405
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES201BOING.png",ES201:BOING
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52406
+#EXTINF:-1 group-title="CANAL INFANTIL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES200BabyTV.png",ES200:Baby TV
+http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52407
