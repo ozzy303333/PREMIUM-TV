@@ -41,3 +41,10 @@ http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2545
 http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52403
 #EXTINF:-1 ,ES143:CANAL PANDA
 http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29249
+
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",Latino | Disney Channel
+http://appstv.us:25461/lozanos/tvmulti/82
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",Latino | Disney Jr
+http://appstv.us:25461/lozanos/tvmulti/83
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",Latino | Disney XD
+http://appstv.us:25461/lozanos/tvmulti/84
